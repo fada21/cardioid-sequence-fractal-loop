@@ -11,3 +11,7 @@ Recreate example [Cardioid-sequence-fractal.gif](https://www.dropbox.com/s/e1zqz
 - use kotlin
 - learn Rust and compare
 - make simple desktop ui with Compose
+
+## Refs
+
+- [some yt render](https://www.youtube.com/watch?v=Ts9nmq41Amg)
