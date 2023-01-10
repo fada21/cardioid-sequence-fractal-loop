@@ -9,7 +9,7 @@ Recreate example [Cardioid-sequence-fractal.gif](https://www.dropbox.com/s/e1zqz
 ## Ideas
 
 - use kotlin
-- learn Rust and compare
+- learn Rust, implement and compare
 - make simple desktop ui with Compose
 
 ## Refs
