@@ -15,3 +15,5 @@ Recreate example [Cardioid-sequence-fractal.gif](https://www.dropbox.com/s/e1zqz
 ## Refs
 
 - [some yt render](https://www.youtube.com/watch?v=Ts9nmq41Amg)
+- [rust learning 1](https://serokell.io/blog/learn-rust)
+- [rust learning 2](https://www.rust-lang.org/learn)
